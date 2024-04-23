@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yossi Yadgar</h1>
-- 🌱 I’m currently learning **BS.c at HIT**
+- 🌱 I’m currently learning BS.c at HIT
 
 - 📫 How to reach me **yadgar360@gmail.com**
 
