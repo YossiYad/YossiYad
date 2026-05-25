@@ -51,7 +51,7 @@ An AI-powered call assistant that dials customer service hotlines, navigates IVR
 
 **🎬 [video-editor](https://github.com/YossiYad/video-editor)** — WPF C# video editor with a custom timeline, block-based multi-clip editing, and an FFmpeg backend for rendering.
 
-**📜 New portfolio** — Interactive scroll-driven CV where a single video scrubs with scroll. Bilingual EN/HE support.
+**📜 [Portfolio](https://github.com/YossiYad/portfolio)** — Interactive scroll-driven CV where a single video scrubs with scroll. Bilingual EN/HE support.
 
 **🔧 [GarageFlow](https://github.com/YossiYad/GarageFlow)** — End-to-end garage management system in C#, covering customers, vehicles, work orders, and billing.
 
