@@ -44,10 +44,10 @@ Docker · GitHub Actions · Vercel · Nginx · Linux · Git
 
 ### 🚀 Featured Projects
 
-**🪐 [orbit-ai](https://github.com/uingame/orbit-ai)** — Space Olympics event management system. Full-stack TypeScript app (Vite + React client, Node server, PostgreSQL + Drizzle) for running competitions end-to-end — judges, events, scoring, and live results.
-
 **📱 Holdie** — [Landing](https://holdie.app/landing) · [Live app](https://holdie.app/)
 An AI-powered call assistant that dials customer service hotlines, navigates IVR menus, and rings you back only when a real human picks up. Built for the Israeli market with 26+ supported companies, full RTL in 4 languages, VoIP telephony, LLM-based menu navigation, and a WebRTC bridge for instant call handoff.
+
+**🪐 [orbit-ai](https://github.com/uingame/orbit-ai)** — Space Olympics event management system. Full-stack TypeScript app (Vite + React client, Node server, PostgreSQL + Drizzle) for running competitions end-to-end — judges, events, scoring, and live results.
 
 **🎬 [video-editor](https://github.com/YossiYad/video-editor)** — WPF C# video editor with a custom timeline, block-based multi-clip editing, and an FFmpeg backend for rendering.
 
