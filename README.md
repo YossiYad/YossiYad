@@ -55,7 +55,7 @@ An AI-powered call assistant that dials customer service hotlines, navigates IVR
 
 **🔧 [GarageFlow](https://github.com/YossiYad/GarageFlow)** - End-to-end garage management system in C#, covering customers, vehicles, work orders, and billing.
 
-**💼 HRHunter** — Java-based recruitment platform connecting candidates and HR teams, with search, filtering, and application tracking.
+**💼 HRHunter** - Java-based recruitment platform connecting candidates and HR teams, with search, filtering, and application tracking.
 
 **🧰 [CliMenuBuilder](https://github.com/YossiYad/CliMenuBuilder)** - Reusable C# library for building hierarchical CLI menus quickly and cleanly.
 
